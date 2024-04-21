@@ -27,8 +27,7 @@ The Observer Pattern is a widely used behavioral design pattern in object-orient
 
 ### Example
 ### Ex_1
-<div>
-    <img src="[images/image1.jpg](https://github.com/TungNguyenThanh1921/Observer/blob/main/Assets/img/ex_1.png)" alt="Image 1" style="width: 30%;">
-    <img src="[images/image2.jpg](https://github.com/TungNguyenThanh1921/Observer/blob/main/Assets/img/ex_1(2).png)" alt="Image 2" style="width: 30%;">
-    <img src="[images/image3.jpg](https://github.com/TungNguyenThanh1921/Observer/blob/main/Assets/img/ex_1(3).png)" alt="Image 3" style="width: 30%;">
-</div>
+![Image 1](https://github.com/TungNguyenThanh1921/Observer/blob/main/Assets/img/ex_1.png)
+![Image 2](https://github.com/TungNguyenThanh1921/Observer/blob/main/Assets/img/ex_1(2).png)
+![Image 3](https://github.com/TungNguyenThanh1921/Observer/blob/main/Assets/img/ex_1(3).png)
+
