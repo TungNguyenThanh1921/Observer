@@ -24,3 +24,11 @@ The Observer Pattern is a widely used behavioral design pattern in object-orient
 - **Minimize dependencies**: Observers do not directly depend on the Subject, making it easier to change or add/remove Observers.
 - **Increase flexibility**: Allows easy addition/removal of new Observers without affecting the Subject and other Observers.
 - **Reusability**: Subjects and Observers can be reused in various different scenarios.
+
+### Example
+### Ex_1
+<div>
+    <img src="[images/image1.jpg](https://github.com/TungNguyenThanh1921/Observer/blob/main/Assets/img/ex_1.png)" alt="Image 1" style="width: 30%;">
+    <img src="[images/image2.jpg](https://github.com/TungNguyenThanh1921/Observer/blob/main/Assets/img/ex_1(2).png)" alt="Image 2" style="width: 30%;">
+    <img src="[images/image3.jpg](https://github.com/TungNguyenThanh1921/Observer/blob/main/Assets/img/ex_1(3).png)" alt="Image 3" style="width: 30%;">
+</div>
