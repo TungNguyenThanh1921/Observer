@@ -32,3 +32,6 @@ The Observer Pattern is a widely used behavioral design pattern in object-orient
 ![Image 3](https://github.com/TungNguyenThanh1921/Observer/blob/main/Assets/img/ex_1(3).png)
 ### Ex_2: link 1-n about 3 same key attach and 1 notify
 ![Image 4](https://github.com/TungNguyenThanh1921/Observer/blob/main/Assets/img/ex_2.png)
+### Ex_3: transfer data via Observer
+![Image 5](https://github.com/TungNguyenThanh1921/Observer/blob/main/Assets/img/ex_3.png)
+![Image 6](https://github.com/TungNguyenThanh1921/Observer/blob/main/Assets/img/ex_3(1).png)
