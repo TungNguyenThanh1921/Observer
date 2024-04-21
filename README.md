@@ -26,8 +26,9 @@ The Observer Pattern is a widely used behavioral design pattern in object-orient
 - **Reusability**: Subjects and Observers can be reused in various different scenarios.
 
 ### Example
-### Ex_1
+### Ex_1: link 1-1 about 1 attach and 1 notify
 ![Image 1](https://github.com/TungNguyenThanh1921/Observer/blob/main/Assets/img/ex_1.png)
 ![Image 2](https://github.com/TungNguyenThanh1921/Observer/blob/main/Assets/img/ex_1(2).png)
 ![Image 3](https://github.com/TungNguyenThanh1921/Observer/blob/main/Assets/img/ex_1(3).png)
-
+### Ex_2: link 1-n about 3 same key attach and 1 notify
+![Image 4](https://github.com/TungNguyenThanh1921/Observer/blob/main/Assets/img/ex_2.png)
